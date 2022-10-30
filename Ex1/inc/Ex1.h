@@ -1,0 +1,1 @@
+void Altera(int &i, char &c, float &f);

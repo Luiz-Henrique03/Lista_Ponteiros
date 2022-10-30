@@ -1,0 +1,1 @@
+void troca(int *n1, int *n2);

@@ -1,0 +1,1 @@
+void Imprime(int *vet);
