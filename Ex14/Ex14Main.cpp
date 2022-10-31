@@ -1,3 +1,7 @@
+/*Crie uma função que receba dois parâmetros: um array e um valor do mesmo tipo do ˆ
+array. A função deverá preencher os elementos de array com esse valor. Não utilize ˜
+´ındices para percorrer o array, apenas aritmetica de ponteiros.*/
+
 #include <iostream>
 #include "Ex14.h"
 

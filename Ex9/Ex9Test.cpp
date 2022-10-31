@@ -1,3 +1,6 @@
+/*Crie um programa que contenha uma matriz de float contendo 3 linhas e 3 colunas.
+Imprima o enderec¸o de cada posic¸ao dessa matriz.*/
+
 #include "Ex9.h"
 #include <gtest/gtest.h>
 

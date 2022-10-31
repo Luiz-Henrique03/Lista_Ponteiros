@@ -1,3 +1,6 @@
+/*Crie um programa que contenha um array de float contendo 10 elementos. Imprima o
+endereço de cada posic¸ao desse array*/
+
 #include <iostream>
 #include "Ex8.h"
 

@@ -3,19 +3,15 @@ numeros inteiros A e B. A função deverá calcular a soma entre estes dois núm
 armazenar o resultado na variavel A. Esta funçãoo não deverá possuir retorno, mas deverá
 modificar o valor do primeiro parametro. Imprima os valores de A e B na função principal. */
 
-#include <iostream>
+
 #include "Ex7.h"
+#include <gtest/gtest.h>
 
-using namespace std;
-
-
-int main()
-{
-    int n1 = 10 ,
+TEST(testSoma, testSoma){
+    int n1 = 10,
         n2 = 15;
+
+    const resSoma = 25;
     
-    soma(&n1,n2);
-
-    cout << n1;
-
+    EXPECT_EQ(soma(&n1,n2));
 }
