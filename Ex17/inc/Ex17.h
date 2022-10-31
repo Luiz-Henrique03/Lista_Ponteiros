@@ -1,0 +1,1 @@
+void frac(float num, int *inteira, float* frac);

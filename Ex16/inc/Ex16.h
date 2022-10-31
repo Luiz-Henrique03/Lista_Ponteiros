@@ -1,0 +1,1 @@
+void NumMultiplicativo(int *b, int **c, int ***d);

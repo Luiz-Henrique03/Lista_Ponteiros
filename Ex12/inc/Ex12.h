@@ -1,0 +1,1 @@
+int Ordena (int* x, int* y, int* z);
