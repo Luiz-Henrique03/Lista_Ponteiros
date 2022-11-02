@@ -1,0 +1,1 @@
+int Negativos(float *vet, int N);

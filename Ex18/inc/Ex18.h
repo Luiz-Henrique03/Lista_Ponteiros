@@ -1,0 +1,1 @@
+void calc_esfera(float R, float *area, float *volume);

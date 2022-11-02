@@ -1,0 +1,1 @@
+void maiorMenor(int vetor[], int* maximo, int* minimo);

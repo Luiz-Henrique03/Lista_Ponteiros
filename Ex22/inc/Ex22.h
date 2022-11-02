@@ -1,0 +1,1 @@
+int* soma_ponteiro(int *vet1,int *vet2,int num);

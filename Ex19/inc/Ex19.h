@@ -1,0 +1,1 @@
+void Verifica(int *Elementos, int * Maior, int *frequencia);
