@@ -1,0 +1,1 @@
+void raizes(float A, float B,float C,float *X1, float *X2);
