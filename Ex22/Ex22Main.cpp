@@ -21,6 +21,6 @@ int main(){
 
     for(int i = 0; i < 3; i++){
 
-        cout <<vet3[i] <<endl;
+        cout << vet3[i] <<endl;
     }
 }

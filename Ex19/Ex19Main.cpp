@@ -5,6 +5,7 @@ no array. Por exemplo, para um array com os seguintes elementos: 5, 2, 15, 3, 7,
 (indicando que o numero 15 ocorreu 3 vezes). A função deve ser do tipo ˜ void.*/
 
 #include <iostream>
+#include "Ex19.h"
 
 using namespace std;
 
