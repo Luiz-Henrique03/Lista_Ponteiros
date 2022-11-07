@@ -7,6 +7,8 @@ das strings.
 #include "Ex13.h"
 #include <string>
 
+using namespace std;
+
 int main(){
     string str1 = "Compudator";
     string str2 = "Comp";
