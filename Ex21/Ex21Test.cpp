@@ -9,7 +9,7 @@ ponteiro (use *).
 
 TEST(testAlteraVet, testAlteraVet){
     int vet[] = {5,10,15,20,25},
-        vetEsperado[] = {6,11,16,21,26}. 
+        vetEsperado[] = {6,11,16,21,26},
     int *pvet = vet;
 
     EXPECT_EQ(*vet, *vetEsperado);
